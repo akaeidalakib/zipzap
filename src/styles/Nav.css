@@ -1,0 +1,73 @@
+.dotstyle {
+  position: fixed;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 9999;
+}
+
+.dotstyle ul {
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  cursor: default;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.dotstyle li {
+  position: relative;
+  display: block;
+  margin: 10px 0;
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+
+.dotstyle li a {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  border-radius: 50%;
+  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.3);
+  text-indent: -999em;
+  cursor: pointer;
+  position: absolute;
+}
+
+.dotstyle li a:focus {
+  outline: none;
+}
+
+.dotstyle-stroke li a {
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0);
+  -webkit-transition: box-shadow 0.3s ease, background-color 0.3s ease;
+  transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.dotstyle-stroke li a:hover {
+  background-color: white;
+}
+
+.dotstyle-stroke li.current a {
+  box-shadow: 0 0 0 1px white;
+}
+
+.dotstyle-stroke li a:focus {
+  outline: none;
+}
+
+@media screen and (max-width: 768px) {
+  .dotstyle {
+    display: none;
+  }
+}

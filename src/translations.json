@@ -1,0 +1,1080 @@
+{
+  "en": {
+    "translation": {
+      "hero": {
+        "joinAlpha": "Join the Alpha"
+      },
+      "sidebar": {
+        "home": "Home",
+        "learn_more": "Learn More",
+        "rent": "Rent",
+        "use_our_tech": "Use Our Tech",
+        "guild": "Guild",
+        "partnership_inquiries": "Partnership Inquiries"
+      },
+      "home": {
+        "title": "NFT RENTING, THE WAY IT SHOULD BE"
+      },
+      "features": {
+        "title1": "Meet Your Proxy Wallet",
+        "description1": "Your Proxy Wallet <highlight>works like any wallet.</highlight> Create your Proxy Wallet, download the extension, and get started today!",
+        "title2": "Say Goodbye To Collateral",
+        "description2": "Rent any featured NFT to your Proxy Wallet with no collateral. Get NFTs for <highlight>less than 0.3%</highlight> of the price!",
+        "title3": "Embrace Boundless Potential",
+        "description3": "Other collateral-free rental protocols require NFTs to be modified to their standards. Your Proxy Wallet is capable of <highlight>protecting any rented NFT.</highlight>",
+        "title4": "And Bring Your Friends",
+        "description4": "Invite your pals to make Proxy Wallets. When they rent, <highlight>you earn 25% and they earn 50%!</highlight>"
+      },
+      "about": {
+        "zipzap": "What's ZipZap?",
+        "zipzap_description": "ZipZap is a cutting-edge <highlight>NFT rental platform.</highlight> We differentiate ourselves in several meaningful ways:",
+        "collateral_free": "Collateral Free",
+        "collateral_free_description": "ZipZap is the only <highlight>fully collateral-free</highlight> rental solution for NFTs. Our \"Proxy Wallet\" allows <highlight>secure rentals</highlight> without compromising the user experience.",
+        "unlimited_selection": "Unlimited Selection",
+        "unlimited_selection_description": "Unlike competitors, ZipZap is <highlight>compatible with existing NFTs</highlight> without their code changing, providing a <highlight>boundless selection.</highlight>",
+        "earn_more": "Earn More",
+        "earn_more_description": "Earn more in P2E games than you would at guilds by keeping a <highlight>larger cut</highlight> and using <highlight>better NFTs.</highlight>",
+        "multi_chain": "Multi-Chain",
+        "multi_chain_description": "ZipZap will supply NFTs from projects built on <highlight>Ethereum, Polygon, BSC, Solana,</highlight> and more."
+      },
+      "rent_with_us": {
+        "title": "RENT WITH ZIPZAP",
+        "description": "Every NFT on ZipZap will have their own unique utilities. After all, what's the point of renting something if it can't do anything?",
+        "coming_soon": "Coming Soon"
+      },
+      "nft_types": {
+        "title": "NFTs WE PROVIDE",
+        "description": "Here's what you'll find on ZipZap:",
+        "gaming_metaverse": "Gaming & Metaverse",
+        "gaming_metaverse_description": "Get NFTs to access the <highlight>best P2E and crypto games</highlight> available with virtually no commitment or costs.",
+        "online_services": "Online Services",
+        "online_services_description": "From <highlight>cheaper</highlight> VPN services to <highlight>discounts</highlight> for retail stores, ZipZap provides NFTs for many online services.",
+        "rewards_discounts": "Rewards & Discounts",
+        "rewards_discounts_description": "ZipZap intentionally prices NFTs so you can <highlight>make a profit</highlight> off rewards, discounts, and loyalty points.",
+        "private_access": "Private Access",
+        "private_access_description": "Gain access to <highlight>exclusive communities</highlight> via NFTs without making large investments.",
+        "in_person_events": "In-Person Events",
+        "in_person_events_description": "Rent NFTs that represent tickets to <highlight>sporting events, gatherings, concerts,</highlight> and more.",
+        "join_now": "Join Now!",
+        "coming_soon": "Coming Soon",
+        "more_to_come": "More To Come",
+        "more_to_come_description": "ZipZap will grow to include NFTs such as <highlight>event tickets, access to communities,</highlight> and more."
+      },
+      "shapeshifter": {
+        "title": "SHAPESHIFTERS NFTs",
+        "lower_fees": "Up to 4.5X Lower Fees",
+        "lower_fees_description": "ShapeShifters can make P2E gaming even more profitable.",
+        "free_renting_credit": "Free Renting Credit",
+        "free_renting_credit_description": "Renting Credit in the form of NFTs will be periodically sent to ShapeShifter holders depending on their \"Luck\" level.",
+        "airdrops_giveaways": "Airdrops & Giveaways",
+        "airdrops_giveaways_description": "ShapeShifter holders are occasionally gifted NFTs and cryptocurrencies from our rental platform, or created by ZipZap.",
+        "boosted_xp_rate": "Boosted XP Rate",
+        "boosted_xp_rate_description": "Owning a ShapeShifter significantly increases the rate XP is gained so that your ZipZap account levels up faster."
+      },
+      "how_to_rent": {
+        "title": "HOW TO RENT",
+        "tutorial_video": "Tutorial Video Coming Soon",
+        "step1": "Create your ZipZap <highlight>account and Proxy Wallet.</highlight>",
+        "step2": "Install the ZipZap <highlight>browser extension</highlight> to use your rented NFTs.",
+        "step3": "Optionally, purchase a ShapeShifter (coming soon) for a <highlight>premium experience.</highlight>",
+        "step4": "<highlight>Select the NFTs</highlight> from your desired project.",
+        "step5": "Confirm rental <highlight>duration and price.</highlight>",
+        "step6": "<highlight>That's it!</highlight> NFTs are immediately sent to your proxy wallet once the transaction is confirmed."
+      },
+      "team": {
+        "title": "CORE TEAM",
+        "founder_ceo": "Founder & CEO",
+        "cofounder_cfo": "Co-founder & CFO",
+        "cofounder_cto": "Co-Founder & CTO",
+        "web3developer": "Web3 Developer",
+        "graphicdesigner": "Graphic Designer",
+        "frontenddeveloper": "Frontend Developer",
+        "communitymanager": "Community Manager"
+      },
+      "timeline": {
+        "title": "LAUNCH TIMELINE",
+        "q4_2022": "Q4 2022",
+        "strategic_development": "Strategic Development",
+        "pre_seed_round": "Pre-seed Round",
+        "technological_development": "Technological Development",
+        "q1_2023": "Q1 2023",
+        "proxy_technology_completion": "Proxy Technology Completion",
+        "genesis_shapeshifter_animations": "Genesis ShapeShifter Animations",
+        "website_launch": "Website Launch",
+        "alpha_testing": "Alpha Testing",
+        "nft_acquisition": "NFT Acquisition",
+        "q2_2023": "Q2 2023",
+        "beta_launch": "Open Beta Launch",
+        "genesis_shapeshifter_launch": "Genesis ShapeShifter Launch",
+        "seed_round": "Seed Round",
+        "shapeshifter_minting": "ShapeShifter Minting",
+        "q3_2023": "Q3 2023",
+        "increase_rental_selection": "Increase Rental Selection",
+        "zap_launch": "$ZAP Launch",
+        "zap_staking": "$ZAP Staking",
+        "multi_chain": "Multi-chain Compatibility",
+        "extension_release": "Proxy Wallet Extension Publication",
+        "referral_program": "Referral Program",
+        "gas_optimization": "Gas Optimization",
+        "p2p_rentals": "Peer-2-Peer Rentals",
+        "tech_distribution": "Proxy Technology Distribution",
+        "q4_2023": "Q4 2023"
+      },
+      "footer": {
+        "contact_us": "Contact Us",
+        "learn_more": "Learn More",
+        "socials": "Socials"
+      },
+      "email": {
+        "subscribe": "Subscribe to our mailing list!",
+        "enterEmail": "Enter your email",
+        "subscribeButton": "Subscribe",
+        "zipzapLaunch": "Be the first to know when ZipZap launches by joining our mailing list!"
+      },
+      "guild": {
+        "title": "NOT A GUILD",
+        "tagline": "ZipZap is not a guild, but our rental platform substitutes as one.",
+        "benefit1": "<highlight>The best web3 games</highlight> at your fingertips!",
+        "benefit2": "A <highlight>de-risked</highlight> P2E experience!",
+        "benefit3": "<highlight>Profit</highlight> from renting NFTs!",
+        "join_now": "Join Now!",
+        "benefits": {
+          "benefits_list": {
+            "1": {
+              "title": "Rent to Earn",
+              "description": "ZipZap prices P2E NFTs so that you can <highlight>make a profit</highlight> while renting them."
+            },
+            "2": {
+              "title": "On Your Terms",
+              "description": "Unlike Guilds, ZipZap <highlight>does not enforce quotas</highlight> on your hours, earnings, or time spent practicing."
+            },
+            "3": {
+              "title": "Open to All",
+              "description": "All you need to do is go to our <highlight>rental webapp</highlight>, connect your wallet, and your account will be created."
+            }
+          }
+        }
+      },
+      "faq": {
+        "title": "F.A.Q.",
+        "questions": {
+          "1": {
+            "question": "How do I create my account and Proxy Wallet?",
+            "answer": "<step>Go to rent.zipzap.net and connect your metamask</step><step>Click the pop up below or click on the wallet icon to the right</step><step>Select the network you would like your proxy wallet created on by clicking on the active network button below the icons on the right side of the wallet page, or by changing which network your metamask is actively on</step><step>Click on “Request Proxy Wallet” and enter your username and Email address</step><step>Click on “Register Proxy Wallet” and confirm the metamask transaction fee for creating your wallet</step>"
+          },
+          "2": {
+            "question": "How do I fund and withdraw from my Proxy Wallet?",
+            "answer": "<step>From the Webapp (rent.zipzap.net), click on the wallet icon on the right</step><step>Click on “Import” in the Proxy Balance section if the token you want to deposit does not already appear, and enter its token contract address</step><step>Once the token you would like to transact appears, press “transact” and enter the amount you would like to deposit or withdraw</step><step>Confirm the metamask transaction, and you are done!</step><step>To deposit tokens, you can also send them directly to your Proxy Wallet's address by any means</step>"
+          },
+          "3": {
+            "question": "How do I connect rented NFTs to Dapps?",
+            "answer": "<step>Go to the game's website or app, then to the ZipZap extension, and press connect</step><step>Using your metamask, either create a new account or link a new wallet to your account</step><step>The proxy extension will then intercept your metamask to have itself linked to your account as well</step><step>Once completed, rented assets will appear in your games inventory and will ready for you to use</step>"
+          },
+          "4": {
+            "question": "How do I list NFTs I own for others to rent? (Coming Soon)",
+            "answer": "<step>Go to rent.zipzap.net/games</step><step>Press the List Now button</step><step>Select an NFT to list from your MetaMask or Proxy Wallet</step><step>Set a price for your NFT and list it</step>"
+          },
+          "5": {
+            "question": "How do I join ZipZap competitions and events?",
+            "answer": "Join our discord, verify, and go to “events” under the “important” section to follow the individual instructions for each event."
+          },
+          "6": {
+            "question": "How are the rental fees calculated?",
+            "answer": "Rental fees are calculated based on a variety of factors, such as their earning potential, value, category, risk factor, and demand. For experience based NFT projects, we try to make them as affordable as we can,  while with certain revenue based NFT projects such as some P2E games, we set renting fees to where you can make a profit and dedicated gamers can earn more than they would at guilds."
+          },
+          "7": {
+            "question": "How does ZipZap ensure the security of NFT rentals?",
+            "answer": "The Proxy Wallet follows unique procedures such as checking the results of each transaction submitted to a Proxy Wallet before submitting them."
+          },
+          "8": {
+            "question": "Why is there a gas fee for creating your proxy wallet?",
+            "answer": "Creating your proxy wallet incurs a one-time fee per network because we must change the state of our smart contracts (which costs gas)."
+          },
+          "9": {
+            "question": "What sets ZipZap apart from other rental platforms?",
+            "answer": "What sets ZipZap apart from other rental platforms is our proxy tech, as well as our focus on providing a positive user experience, making p2e gaming viable, and NFTs affordable."
+          },
+          "10": {
+            "question": "Can I profit from renting P2E NFTs with ZipZap?",
+            "answer": "Yes. Many of our P2E NFTs are intentionally priced so that you can profit from them like you would at a guild."
+          },
+          "11": {
+            "question": "Can I pay for rentals with my MetaMask?",
+            "answer": "Yes. Before confirming a rental transaction, you will be prompted to either pay with your metamask or with your Proxy Wallet."
+          },
+          "12": {
+            "question": "Where do I download the Proxy Extension?",
+            "answer": "You can find the ZipZap extension on the chrome store."
+          },
+          "13": {
+            "question": "What should I do if a dApp keeps connecting to MetaMask instead of my Proxy Wallet?",
+            "answer": "Please ensure your Proxy Wallet is connected to your MetaMask. Please also disconnect your MetaMask from the dApp you want to use your Proxy Wallet with."
+          },
+          "14": {
+            "question": "What's the minimum I can spend to start renting with ZipZap?",
+            "answer": "You can create a proxy wallet and start renting with as little as a few cents on Polygon."
+          },
+          "15": {
+            "question": "What's the max I can rent at once?",
+            "answer": "As of October 2023, you can rent up to 1.5 ETH, or 2500 MATIC worth of NFTs. You can see this information as your 'power' on our rental platform."
+          }
+        }
+      }
+    }
+  },
+  "es": {
+    "translation": {
+      "hero": {
+        "joinAlpha": "Unirse Al Alfa"
+      },
+      "features": {
+        "title1": "Conoce tu Billetera Proxy",
+        "description1": "Tu <highlight>Billetera Proxy</highlight> funciona como cualquier otra. ¡Crea tu Billetera Proxy, descarga la extensión y <highlight>comienza hoy</highlight> mismo!",
+        "title2": "Di Adiós Al Colateral",
+        "description2": "Alquila <highlight>cualquier NFT</highlight> destacado a tu Billetera Proxy sin necesidad de colateral. ¡Consigue <highlight>NFTs por menos</highlight> del 0.3% del precio!",
+        "title3": "Potencial Ilimitado",
+        "description3": "<highlight>Otros</highlight> protocolos de alquiler sin garantía <highlight>requieren</highlight> que los NFT se modifiquen a <highlight>sus estándares</highlight>. Tu Billetera Proxy es capaz de proteger <highlight>cualquier</highlight> NFT alquilado.",
+        "title4": "Y Trae A Tus Amigos",
+        "description4": "Invita a tus amigos a crear Billeteras Proxy. ¡Cuando alquilan, <highlight>tú ganas un 25% y ellos ganan un 50%!</highlight>"
+      },
+      "sidebar": {
+        "home": "Inicio",
+        "learn_more": "Aprende Más",
+        "rent": "Alquilar",
+        "use_our_tech": "Usa Nuestra Tecnología",
+        "guild": "Gremio",
+        "partnership_inquiries": "Consultas de Asociación"
+      },
+      "home": {
+        "title": "ALQUILER DE NFT, COMO DEBERÍA SER"
+      },
+      "about": {
+        "zipzap": "¿Que Es ZipZap?",
+        "zipzap_description": "ZipZap es un servicio innovador de <highlight>NFT</highlight>. Nos diferenciamos de diversas maneras significativas:",
+        "collateral_free": "Sin Colateral",
+        "collateral_free_description": "ZipZap es la única solución de alquiler de NFT completamente <highlight>libre de garantías</highlight>. Nuestra \"Billetera Proxy\" permite <highlight>alquileres seguros</highlight> sin comprometer la experiencia del usuario.",
+        "unlimited_selection": "Selección Ilimitada",
+        "unlimited_selection_description": "A diferencia de nuestros competidores, ZipZap es <highlight>compatible con los NFTs existentes</highlight> sin necesidad de cambiar su código, lo que ofrece una <highlight>selección ilimitada.</highlight>",
+        "earn_more": "Gana Más",
+        "earn_more_description": "Obtén mayores ganancias en los juegos P2E que en los gremios al quedarte con un <highlight>porcentaje mayor</highlight> y utilizar <highlight>NFTs de mejor calidad.</highlight>",
+        "multi_chain": "Multi-Chain",
+        "multi_chain_description": "ZipZap tendrá NFTs de proyectos construidos en <highlight>Ethereum, Polygon, BSC, Solana,</highlight> y más."
+      },
+      "rent_with_us": {
+        "title": "ALQUILA CON ZIPZAP",
+        "description": "Cada NFT en ZipZap tendrá sus propias utilidades únicas. Después de todo, ¿cuál es el punto de alquilar algo si no puede hacer nada?",
+        "coming_soon": "Próximamente"
+      },
+      "nft_types": {
+        "title": "NFTs QUE OFRECEMOS",
+        "description": "Esto es lo que encontrarás en ZipZap:",
+        "gaming_metaverse": "Juegos y Metaversos",
+        "gaming_metaverse_description": "Obtén NFTs para acceder a los <highlight>mejores juegos P2E y de cripto juegos</highlight> disponibles con prácticamente sin compromisos ni costos.",
+        "online_services": "Servicios en Línea",
+        "online_services_description": "Desde <highlight>servicios VPN más económicos</highlight> hasta <highlight>descuentos</highlight> en tiendas minoristas, ZipZap ofrece NFTs para una amplia variedad de servicios en línea.",
+        "rewards_discounts": "Recompensas y Descuentos",
+        "rewards_discounts_description": "ZipZap fija intencionalmente el precio de los NFTs para que puedas <highlight>obtener ganancias</highlight> a partir de recompensas, descuentos y puntos de fidelidad.",
+        "private_access": "Acceso Privado",
+        "private_access_description": "Obtén acceso a <highlight>comunidades exclusivas</highlight> a través de NFTs sin tener que hacer grandes inversiones.",
+        "in_person_events": "Eventos Presenciales",
+        "in_person_events_description": "Alquila NFTs que representan entradas para <highlight>eventos deportivos, reuniones, conciertos,</highlight> y mucho más.",
+        "join_now": "¡Únete ahora!",
+        "coming_soon": "Viniendo pronto",
+        "more_to_come": "Más Por Venir",
+        "more_to_come_description": "ZipZap crecerá para incluir NFTs como <highlight>boletos de eventos</highlight>, acceso exclusivo a <highlight>comunidades y más.</highlight>"
+      },
+      "shapeshifter": {
+        "title": "ShapeShifters NFTs",
+        "shapeshifters_description": "Los ShapeShifters son para aquellos que creen en el futuro de los NFTs y desean obtener beneficios de por vida al utilizarlos.",
+        "lower_fees": "Tarifas hasta 4.5 veces más bajas",
+        "lower_fees_description": "Los ShapeShifters pueden hacer que los juegos P2E <highlight>sean aún más rentables.</highlight>",
+        "free_renting_credit": "Crédito de alquiler gratuito.",
+        "free_renting_credit_description": "El crédito de alquiler en forma de NFTs se enviará periódicamente a los <highlight>poseedores de ShapeShifter</highlight> dependiendo de su nivel de \"suerte\".",
+        "airdrops_giveaways": "Airdrops y Regalos",
+        "airdrops_giveaways_description": "De vez en cuando, los titulares de ShapeShifter reciben <highlight>NFTs y criptomonedas</highlight> como regalo de nuestra plataforma de alquiler o creados por ZipZap.",
+        "boosted_xp_rate": "Nivel de XP aumentado",
+        "boosted_xp_rate_description": "Poseer un ShapeShifter <highlight>aumenta significativamente</highlight> la velocidad a la que se obtiene XP, lo que hace que tu cuenta de ZipZap suba de nivel más rápido."
+      },
+      "how_to_rent": {
+        "title": "Cómo Alquilar",
+        "tutorial_video": "¡Próximamente video tutorial!",
+        "step1": "Crea tu ZipZap <highlight>cuenta y tu Proxy Wallet.</highlight>",
+        "step2": "Instala la <highlight>extensión del navegador</highlight> de ZipZap para utilizar tus NFTs alquilados.",
+        "step3": "Opcionalmente, adquiere un ShapeShifter (próximamente) para <highlight>disfrutar de una experiencia premium.</highlight>",
+        "step4": "<highlight>Selecciona los NFTs</highlight> del proyecto que desees.",
+        "step5": "Confirma la <highlight>duración y el precio</highlight> del alquiler.",
+        "step6": "<highlight>¡Listo!</highlight> Los NFTs se enviarán de inmediato a tu Proxy Wallet una vez que se confirme la transacción."
+      },
+      "team": {
+        "title": "QUIÉNES SOMOS",
+        "founder_ceo": "Fundador y CEO",
+        "cofounder_cfo": "Cofundador y CFO (Director Financiero)",
+        "cofounder_cto": "Cofundador y CTO (Director de Tecnología)",
+        "web3developer": "Desarrollador Web3",
+        "graphicdesigner": "Diseñador Gráfico",
+        "frontenddeveloper": "Desarrollador Frontend"
+      },
+      "timeline": {
+        "title": "PLAN DE LANZAMIENTO",
+        "q4_2022": "T4 2022",
+        "strategic_development": "Desarrollo Estratégico",
+        "pre_seed_round": "Ronda de Pre-semilla",
+        "technological_development": "Desarrollo Tecnológico",
+        "q1_2023": "T1 2023",
+        "proxy_technology_completion": "Finalización de la Tecnología Proxy",
+        "genesis_shapeshifter_animations": "Animaciones de Genesis ShapeShifter",
+        "website_launch": "Lanzamiento del Sitio Web",
+        "alpha_testing": "Pruebas Alfa",
+        "nft_acquisition": "Adquisición de NFT",
+        "q2_2023": "T2 2023",
+        "beta_launch": "Lanzamiento Beta",
+        "genesis_shapeshifter_launch": "Lanzamiento de Genesis ShapeShifter",
+        "seed_round": "Ronda Semilla",
+        "shapeshifter_minting": "Acuñación de ShapeShifter",
+        "q3_2023": "T3 2023",
+        "increase_rental_selection": "Aumento de Selección de Alquileres",
+        "zap_launch": "Lanzamiento de $ZAP",
+        "zap_staking": "$ZAP apostando",
+        "multi_chain": "Compatibilidad multi-chain",
+        "extension_release": "Lanzamiento de la extensión de billetera proxy",
+        "referral_program": "Programa de referencia",
+        "gas_optimization": "Optimización de gas",
+        "p2p_rentals": "Alquiler entre particulares (P2P)",
+        "tech_distribution": "Distribución de tecnología de proxy",
+        "q4_2023": "Q4 2023"
+      },
+      "footer": {
+        "contact_us": "Contacto",
+        "learn_more": "Más información",
+        "socials": "Redes sociales"
+      },
+      "email": {
+        "subscribe": "¡Suscríbete a nuestra lista de correo!",
+        "enterEmail": "Entre tu correo",
+        "subscribeButton": "suscribirse",
+        "zipzapLaunch": "¡Únete a nuestra lista de correo para ser el primero en saber cuándo se lance ZipZap!"
+      },
+      "guild": {
+        "title": "NO SOMOS UN GREMIO",
+        "tagline": "ZipZap no es un gremio, pero nuestra plataforma de alquiler lo sustituye perfectamente.",
+        "benefit1": "¡Los <highlight>mejores juegos web3</highlight> al alcance de tus dedos!",
+        "benefit2": "¡Una experiencia de juego P2E <highlight>menos riesgos!</highlight>",
+        "benefit3": "¡<highlight>Benefíciate</highlight> al alquilar NFTs!",
+        "join_now": "¡Únete ahora!",
+        "benefits": {
+          "benefits_list": {
+            "1": {
+              "title": "Alquila para Ganar",
+              "description": "ZipZap ajusta los precios de los NFTs P2E para que puedas <highlight>obtener beneficios</highlight> mientras los alquilas."
+            },
+            "2": {
+              "title": "A tu manera",
+              "description": "A diferencia de los Gremios, ZipZap <highlight>no impone cuotas</highlight> en tus horas, ganancias o tiempo de práctica."
+            },
+            "3": {
+              "title": "Libre para Todos",
+              "description": "Solo necesitas ir a nuestra <highlight>web de alquiler</highlight>, conectar tu billetera y tu cuenta se creará al instante."
+            }
+          }
+        }
+      },
+      "faq": {
+        "title": "F.A.Q.",
+        "questions": {
+          "1": {
+            "question": "How do I create my account and Proxy Wallet?",
+            "answer": "<step>Go to rent.zipzap.net and connect your metamask</step><step>Click the pop up below or click on the wallet icon to the right</step><step>Select the network you would like your proxy wallet created on by clicking on the active network button below the icons on the right side of the wallet page, or by changing which network your metamask is actively on</step><step>Click on “Request Proxy Wallet” and enter your username and Email address</step><step>Click on “Register Proxy Wallet” and confirm the metamask transaction fee for creating your wallet</step>"
+          },
+          "2": {
+            "question": "How do I fund and withdraw from my Proxy Wallet?",
+            "answer": "<step>From the Webapp (rent.zipzap.net), click on the wallet icon on the right</step><step>Click on “Import” in the Proxy Balance section if the token you want to deposit does not already appear, and enter its token contract address</step><step>Once the token you would like to transact appears, press “transact” and enter the amount you would like to deposit or withdraw</step><step>Confirm the metamask transaction, and you are done!</step><step>To deposit tokens, you can also send them directly to your Proxy Wallet's address by any means</step>"
+          },
+          "3": {
+            "question": "How do I connect rented NFTs to Dapps?",
+            "answer": "<step>Go to the game's website or app, then to the ZipZap extension, and press connect</step><step>Using your metamask, either create a new account or link a new wallet to your account</step><step>The proxy extension will then intercept your metamask to have itself linked to your account as well</step><step>Once completed, rented assets will appear in your games inventory and will ready for you to use</step>"
+          },
+          "4": {
+            "question": "How do I list NFTs I own for others to rent? (Coming Soon)",
+            "answer": "<step>Go to rent.zipzap.net/games</step><step>Press the List Now button</step><step>Select an NFT to list from your MetaMask or Proxy Wallet</step><step>Set a price for your NFT and list it</step>"
+          },
+          "5": {
+            "question": "How do I get involved in the ZipZap community?",
+            "answer": "Join our discord, follow our social media, vote, and join our events! If you want to take it a step further and officially become part of ZipZap's team, please email info@zipzap.net and we will get in touch with you."
+          },
+          "6": {
+            "question": "How do I join ZipZap competitions and events?",
+            "answer": "Join our discord, verify, and go to “events” under the “important” section to follow the individual instructions for each event."
+          },
+          "7": {
+            "question": "How are the rental fees calculated?",
+            "answer": "Rental fees are calculated based on a variety of factors, such as their earning potential, value, category, risk factor, and demand. For experience based NFT projects, we try to make them as affordable as we can,  while with certain revenue based NFT projects such as some P2E games, we set renting fees to where you can make a profit and dedicated gamers can earn more than they would at guilds."
+          },
+          "8": {
+            "question": "How does ZipZap ensure the security of NFT rentals?",
+            "answer": "The Proxy Wallet follows unique procedures such as checking the results of each transaction submitted to a Proxy Wallet before submitting them."
+          },
+          "9": {
+            "question": "Why is there a gas fee for creating your proxy wallet?",
+            "answer": "Creating your proxy wallet incurs a one-time fee per network because we must change the state of our smart contracts (which costs gas)."
+          },
+          "10": {
+            "question": "What types of NFTs can I found on ZipZap?",
+            "answer": "We currently feature NFTs for a wide variety of games and metaverses, but we plan on expanding to NFTs with all sorts of different utilities."
+          },
+          "11": {
+            "question": "What sets ZipZap apart from other rental platforms?",
+            "answer": "What sets ZipZap apart from other rental platforms is our proxy tech, as well as our focus on providing a positive user experience, making p2e gaming viable, and NFTs affordable."
+          },
+          "12": {
+            "question": "What blockchain networks does ZipZap work on?",
+            "answer": "ZipZap will initially exist on Ethereum and Polygon but we plan on configuring other major blockchain networks such as Binance Smart Chain, Avalanche, Solana, and more in the future."
+          },
+          "13": {
+            "question": "Can I profit from renting P2E NFTs with ZipZap?",
+            "answer": "Yes. Many of our P2E NFTs are intentionally priced so that you can profit from them like you would at a guild."
+          },
+          "14": {
+            "question": "Can I pay for rentals with my MetaMask?",
+            "answer": "Yes. Before confirming a rental transaction, you will be prompted to either pay with your metamask or with your Proxy Wallet."
+          },
+          "15": {
+            "question": "Where do I download the Proxy Extension?",
+            "answer": "You can find the ZipZap extension on the chrome store."
+          },
+          "16": {
+            "question": "What should I do if a dApp keeps connecting to MetaMask instead of my Proxy Wallet?",
+            "answer": "Please ensure your Proxy Wallet is connected to your MetaMask. Please also disconnect your MetaMask from the dApp you want to use your Proxy Wallet with."
+          },
+          "17": {
+            "question": "What's the minimum I can spend to start renting with ZipZap?",
+            "answer": "You can create a proxy wallet and start renting with as little as a few cents on Polygon."
+          },
+          "18": {
+            "question": "What's the max I can rent at once?",
+            "answer": "As of October 2023, you can rent up to 1.5 ETH, or 2500 MATIC worth of NFTs. You can see this information as your 'power' on our rental platform."
+          }
+        }
+      }
+    }
+  },
+  "pt": {
+    "translation": {
+      "hero": {
+        "joinAlpha": "Juntar-se ao Alfa"
+      },
+      "features": {
+        "title1": "Conheça sua Carteira Proxy",
+        "description1": "Sua <highlight>Carteira Proxy</highlight> funciona como qualquer outra. Crie sua Carteira Proxy, baixe a extensão e <highlight>comece hoje mesmo!</highlight>",
+        "title2": "Diga adeus ao colateral",
+        "description2": "Alugue <highlight>qualquer NFT</highlight> em destaque para sua Carteira Proxy sem necessidade de garantia. Obtenha <highlight>NFTs por menos</highlight> de 0,3% do preço!",
+        "title3": "Potencial ilimitado",
+        "description3": "<highlight>Outros</highlight> protocolos de aluguel sem garantia <highlight>exigem</highlight> que os NFTs sejam modificados para atender aos <highlight>seus padrões</highlight>. Sua Carteira Proxy é capaz de proteger <highlight>qualquer</highlight> NFT alugado.",
+        "title4": "E traga seus amigos",
+        "description4": "Convide seus amigos para criar Carteiras Proxy. Quando eles alugam, <highlight>você ganha</highlight> 25% e <highlight>eles ganham 50%!</highlight>"
+      },
+      "sidebar": {
+        "home": "Início",
+        "learn_more": "Saber Mais",
+        "rent": "Alugar",
+        "use_our_tech": "Use Nossa Tecnologia",
+        "guild": "Guilda",
+        "partnership_inquiries": "Inquéritos de Parceria"
+      },
+      "home": {
+        "title": "ALUGUEL DE NFT, DO JEITO QUE DEVERIA SER"
+      },
+      "about": {
+        "zipzap": "¿Que Es ZipZap?",
+        "zipzap_description": "ZipZap é um serviço inovador de <highlight>NFT</highlight>. Nos diferenciamos de diversas maneiras significativas:",
+        "collateral_free": "Sem Colateral",
+        "collateral_free_description": "ZipZap é a única solução de aluguel de NFT completamente <highlight>livre de garantias</highlight>. Nossa \"Carteira Proxy\" permite <highlight>aluguéis seguros</highlight> sem comprometer a experiência do usuário.",
+        "unlimited_selection": "Seleção Ilimitada",
+        "unlimited_selection_description": "Ao contrário de nossos concorrentes, ZipZap é <highlight>compatível com os NFTs existentes</highlight> sem a necessidade de alterar seu código, oferecendo uma <highlight>seleção ilimitada.</highlight>",
+        "earn_more": "Ganhe Mais",
+        "earn_more_description": "Obtenha maiores ganhos nos jogos P2E do que nos gremios, mantendo um <highlight>percentual maior</highlight> e utilizando <highlight>NFTs de melhor qualidade.</highlight>",
+        "multi_chain": "Multi-Chain",
+        "multi_chain_description": "ZipZap terá NFTs de projetos construídos em <highlight>Ethereum, Polygon, BSC, Solana,</highlight> e mais."
+      },
+      "rent_with_us": {
+        "title": "ALUGUE COM ZIPZAP",
+        "description": "Cada NFT no ZipZap possui utilidades únicas. Afinal, qual é o propósito de alugar se não puder ser utilizado?",
+        "coming_soon": "Em breve"
+      },
+      "nft_types": {
+        "title": "NFTs QUE OFERECEMOS",
+        "description": "Veja o que você encontrará no ZipZap:",
+        "gaming_metaverse": "Jogos e Metaversos",
+        "gaming_metaverse_description": "Obtenha NFTs para acessar os <highlight>melhores jogos P2E e de criptomoedas</highlight> sem compromissos ou custos.",
+        "online_services": "Serviços Online",
+        "online_services_description": "Desde <highlight>serviços VPN mais baratos</highlight> até <highlight>descontos em lojas</highlight>, o ZipZap tem NFTs para vários serviços online.",
+        "rewards_discounts": "Recompensas e Descontos",
+        "rewards_discounts_description": "O ZipZap precifica NFTs para que você possa <highlight>lucrar</highlight> com recompensas e descontos.",
+        "private_access": "Acesso Privado",
+        "private_access_description": "Acesse <highlight>comunidades exclusivas</highlight> com NFTs sem grandes investimentos.",
+        "in_person_events": "Eventos Presenciais",
+        "in_person_events_description": "Alugue NFTs para <highlight>eventos esportivos, encontros e concertos.</highlight>",
+        "join_now": "Junte-se agora!",
+        "coming_soon": "Em breve",
+        "more_to_come": "Mais novidades por vir",
+        "more_to_come_description": "O ZipZap irá expandir para incluir NFTs como <highlight>ingressos para eventos</highlight>, acesso exclusivo a <highlight>comunidades e mais</highlight>."
+      },
+      "shapeshifter": {
+        "title": "ShapeShifters NFTs",
+        "shapeshifters_description": "Os ShapeShifter são para aqueles que acreditam no futuro dos NFTs e querem benefícios de por vida ao usá-los.",
+        "lower_fees": "Até 4,5 vezes menos taxas",
+        "lower_fees_description": "Os ShapeShifters podem tornar os jogos P2E <highlight>ainda mais lucrativos.</highlight>",
+        "free_renting_credit": "Crédito de aluguel gratuito",
+        "free_renting_credit_description": "Os detentores de ShapeShifter receberão periodicamente créditos de aluguel em NFTs, dependendo do nível de \"sorte\".",
+        "airdrops_giveaways": "Airdrops e sorteios",
+        "airdrops_giveaways_description": "Detentores de ShapeShifter ocasionalmente recebem <highlight>NFTs e criptomoedas</highlight> da nossa plataforma ou criados pela ZipZap.",
+        "boosted_xp_rate": "Nível de XP aumentado",
+        "boosted_xp_rate_description": "Possuir um ShapeShifter <highlight>aumenta a taxa de XP</highlight>, fazendo sua conta ZipZap evoluir mais rapidamente."
+      },
+      "how_to_rent": {
+        "title": "Como Alugar",
+        "tutorial_video": "Vídeo tutorial em breve",
+        "step1": "Crie sua <highlight>conta ZipZap e Proxy Wallet.</highlight>",
+        "step2": "Instale a <highlight>extensão do navegador ZipZap</highlight> para usar seus NFTs alugados.",
+        "step3": "Opcionalmente, compre um ShapeShifter (em breve) para uma <highlight>experiência premium.</highlight>",
+        "step4": "Escolha os <highlight>NFTs do projeto desejado.</highlight>",
+        "step5": "Confirme <highlight>duração e preço do aluguel.</highlight>",
+        "step6": "<highlight>Pronto!</highlight> Os NFTs são enviados imediatamente após a confirmação da transação."
+      },
+      "team": {
+        "title": "EQUIPE PRINCIPAL",
+        "founder_ceo": "Founder & CEO",
+        "cofounder_cfo": "Co-founder & CFO",
+        "cofounder_cto": "Co-Founder & CTO",
+        "web3developer": "Web3 Developer",
+        "graphicdesigner": "Graphic Designer",
+        "frontenddeveloper": "Frontend Developer"
+      },
+      "timeline": {
+        "title": "LINHA DO TEMPO DE LANÇAMENTO",
+        "q4_2022": "Q4 2022",
+        "strategic_development": "Desenvolvimento Estratégico",
+        "pre_seed_round": "Rodada de Pre-seed",
+        "technological_development": "Desenvolvimento Tecnológico",
+        "q1_2023": "Q1 2023",
+        "proxy_technology_completion": "Conclusão da Tecnologia de Proxy",
+        "genesis_shapeshifter_animations": "Animações do Genesis ShapeShifter",
+        "website_launch": "Lançamento do Site",
+        "alpha_testing": "Testes Alpha",
+        "nft_acquisition": "Aquisição de NFT",
+        "q2_2023": "Q2 2023",
+        "beta_launch": "Lançamento Beta",
+        "genesis_shapeshifter_launch": "Lançamento do Genesis ShapeShifter",
+        "seed_round": "Rodada de Seed",
+        "shapeshifter_minting": "Cunhagem de ShapeShifter",
+        "q3_2023": "Q3 2023",
+        "increase_rental_selection": "Aumento na Seleção de Aluguéis",
+        "zap_launch": "Lançamento do $ZAP",
+        "zap_staking": "$ZAP apostando",
+        "multi_chain": "Compatibilidade com várias blockchains",
+        "extension_release": "Lançamento da extensão da carteira proxy",
+        "referral_program": "Programa de indicação",
+        "gas_optimization": "Otimização de gás",
+        "p2p_rentals": "Aluguel de pessoa para pessoa (P2P)",
+        "tech_distribution": "Distribuição de tecnologia de proxy",
+        "q4_2023": "Q4 2023"
+      },
+      "footer": {
+        "contact_us": "Entrar em contato",
+        "learn_more": "Descubra mais",
+        "socials": "Sociais"
+      },
+      "email": {
+        "subscribe": "Inscreva-se na nossa lista de e-mails!",
+        "enterEmail": "Digite seu e-mail",
+        "subscribeButton": "Subscrever",
+        "zipzapLaunch": "Junte-se à nossa lista de e-mails para ser o primeiro a saber quando o ZipZap for lançado!"
+      },
+      "guild": {
+        "title": "NÃO É UMA GUILDA",
+        "tagline": "O ZipZap não é uma guilda, mas nossa plataforma de aluguel funciona como uma.",
+        "benefit1": "Os <highlight>melhores jogos web3</highlight> ao alcance dos seus dedos!",
+        "benefit2": "Uma experiência P2E com <highlight>menos riscos!</highlight>",
+        "benefit3": "<highlight>Lucre</highlight> alugando NFTs!",
+        "join_now": "Junte-se Agora!",
+        "benefits": {
+          "benefits_list": {
+            "1": {
+              "title": "Alugue para Ganhar",
+              "description": "O ZipZap define os preços dos NFTs P2E de forma que você possa obter lucro enquanto os aluga."
+            },
+            "2": {
+              "title": "Nos Seus Termos",
+              "description": "Diferentemente das guildas, o ZipZap <highlight>não impõe</highlight> quotas em suas horas, ganhos ou tempo gasto praticando."
+            },
+            "3": {
+              "title": "Aberto para Todos",
+              "description": "Tudo que você precisa fazer é ir ao nosso aplicativo web de aluguel, conectar sua carteira, e sua conta será criada."
+            }
+          }
+        }
+      }
+    }
+  },
+  "ru": {
+    "translation": {
+      "hero": {
+        "joinAlpha": "вступать к альфа"
+      },
+      "features": {
+        "title1": "Знакомьтесь с вашим Прокси-кошельком",
+        "description1": "Ваш <highlight>Прокси-кошелек</highlight> работает как любой другой кошелек. Создайте свой Прокси-кошелек, загрузите расширение и <highlight>начните сегодня</highlight>!",
+        "title2": "Попрощайтесь с залогом",
+        "description2": "Арендуйте <highlight>любой выделенный NFT</highlight> в свою Прокси-кошелек <highlight>без залога</highlight>. Получай <highlight>NFT за менее</highlight> чем 0,3% от цены!",
+        "title3": "безграничный потенциал",
+        "description3": "<highlight>Другие</highlight> протоколы аренды без залога <highlight>требуют</highlight>, чтобы NFT соответствовали <highlight>их стандартам</highlight>. Ваш Прокси-кошелек способен защитить <highlight>любой</highlight> арендованный NFT.",
+        "title4": "И пригласите своих друзей",
+        "description4": "Пригласите своих друзей создать Прокси-кошельки. Когда они арендуют, <highlight>вы получаете</highlight> 25%, а <highlight>они - 50%!</highlight>"
+      },
+      "sidebar": {
+        "home": "Главная",
+        "learn_more": "Узнать больше",
+        "rent": "Аренда",
+        "use_our_tech": "Используйте нашу технологию",
+        "guild": "Гильдия",
+        "partnership_inquiries": "Запросы на партнёрство"
+      },
+      "home": {
+        "title": "АРЕНДА NFT КАК ДОЛЖНА БЫТЬ"
+      },
+      "about": {
+        "zipzap": "Что такое ZipZap?",
+        "zipzap_description": "ZipZap - это инновационный <highlight>сервис аренды NFT.</highlight> У нас есть два существенных отличия от других подобных платформ:",
+        "collateral_free": "Никаких залогов",
+        "collateral_free_description": "ZipZap - единственное решение для аренды NFT, которое не требует залог от пользователя. Наш \"прокси-кошелек\" обеспечивает <highlight>безопасную аренду NFT</highlight> полностью прозрачную для опыта пользователя.",
+        "unlimited_selection": "Неограниченный выбор",
+        "unlimited_selection_description": "В отличие от конкурентов, ZipZap совместим с существующими NFT без необходимости адаптации их кода, что позволяет нам предоставлять <highlight>неограниченный выбор разных игровых проектов независимо от их технической реализации</highlight>.",
+        "earn_more": "Зарабатывай больше",
+        "earn_more_description": "Получайте больше прибыли в P2E-играх, чем в гильдиях, удерживая <highlight>больший процент</highlight> и используя <highlight>лучшие NFT</highlight>.",
+        "multi_chain": "Multi-Chain",
+        "multi_chain_description": "ZipZap будет поддерживать NFT проектоы, созданные на <highlight>Ethereum, Polygon, BSC, Solana,</highlight> и других блокчейн платформах с поддержкой умных контрактов."
+      },
+      "rent_with_us": {
+        "title": "Арендуйте с ZipZap",
+        "description": "Каждый NFT токен в ZipZap будет иметь свои собственные уникальные возможности. В конце концов, какой смысл арендовать то что вы не можете использовать?",
+        "coming_soon": "Скоро"
+      },
+      "nft_types": {
+        "title": "NFT, которые мы предлагаем",
+        "description": "Вот что вы найдете на ZipZap:",
+        "gaming_metaverse": "Игры и метавселенные",
+        "gaming_metaverse_description": "Получайте NFT, чтобы получить доступ к <highlight>лучшим P2E-играм и криптовалютам</highlight> практически без всяких обязательств и затрат с вашей стороны.",
+        "online_services": "Онлайн-сервисы",
+        "online_services_description": "От <highlight>более дешевых</highlight> услуг VPN до <highlight>скидок</highlight> в розничных магазинах, ZipZap предлагает NFT для широкого спектра онлайн-сервисов.",
+        "rewards_discounts": "Награды и скидки",
+        "rewards_discounts_description": "ZipZap специально устанавливает цену на NFT, чтобы вы могли <highlight>получить прибыль</highlight> от вознаграждений, скидок и бонусных баллов.",
+        "private_access": "Частный доступ",
+        "private_access_description": "Получите доступ к <highlight>исключительным сообществам</highlight> через NFT, не вкладывая больших сумм.",
+        "in_person_events": "События в реальной жизни",
+        "in_person_events_description": "Арендуйте NFT, представляющие билеты на <highlight>спортивные события, встречи, концерты,</highlight> и многое другое.",
+        "join_now": "Присоединяйтесь Сейчас",
+        "coming_soon": "Скоро",
+        "more_to_come": "Больше будет",
+        "more_to_come_description": "ZipZap будет расширяться, чтобы включить NFT, такие как <highlight>билеты на события</highlight>, эксклюзивный <highlight>доступ к сообществам</highlight> и многое <highlight>другое</highlight>."
+      },
+      "shapeshifter": {
+        "title": "ШАЙПШИФТЕРЫ NFT",
+        "shapeshifters_description": "Шайпшифтеры - это для тех, кто верит в будущее NFT и хочет получать пожизненную прибыль от их использования.",
+        "lower_fees": "До 4,5 раз меньше комиссий",
+        "lower_fees_description": "Шейпшифтеры могут сделать игры P2E еще более прибыльными.",
+        "free_renting_credit": "Бесплатный арендный кредит",
+        "free_renting_credit_description": "Кредит аренды в виде NFT будет периодически отправляться держателям Шейпшифтера в зависимости от их уровня \"удачи\".",
+        "airdrops_giveaways": "Airdrops и розыгрыши",
+        "airdrops_giveaways_description": "Время от времени держатели Шейпшифтера получают в подарок NFT и криптовалюты от нашей арендной платформы или ZipZap токены.",
+        "boosted_xp_rate": "Повышенный уровень опыта",
+        "boosted_xp_rate_description": "Владение Шейпшифтером значительно ускоряет получение опыта, что позволяет вашей учетной записи ZipZap быстрее повышать уровень."
+      },
+      "how_to_rent": {
+        "title": "Как арендовать",
+        "tutorial_video": "Скоро мы выпустим обучающий видеоролик",
+        "step1": "Создайте свою учетную запись ZipZap <highlight>и Proxy Wallet.</highlight>",
+        "step2": "Установите расширение браузера ZipZap <highlight>чтобы использовать свои арендованные NFT.</highlight>",
+        "step3": "Скоро будет доступна функция приобретения Шейпшифтера для <highlight>премиум-опыта.</highlight>",
+        "step4": "<highlight>Выберите проект и NFT,</highlight> которые хотите арендовать.",
+        "step5": "Подтвердите <highlight>продолжительность и стоимость аренды.</highlight>",
+        "step6": "<highlight>Готово!</highlight> NFT токены мгновенно отправляются на ваш Proxy Wallet после подтверждения транзакции."
+      },
+      "team": {
+        "title": "ОСНОВНАЯ КОМАНДА",
+        "founder_ceo": "Founder & CEO",
+        "cofounder_cfo": "Co-founder & CFO",
+        "cofounder_cto": "Co-Founder & CTO",
+        "web3developer": "Web3 Developer",
+        "graphicdesigner": "Graphic Designer",
+        "frontenddeveloper": "Frontend Developer"
+      },
+      "timeline": {
+        "title": "Дорожная карта",
+        "q4_2022": "Q4 2022",
+        "strategic_development": "Стратегическое развитие",
+        "pre_seed_round": "Раунд Пресидии",
+        "technological_development": "Технологическое развитие",
+        "q1_2023": "Q1 2023",
+        "proxy_technology_completion": "Завершение технологии прокси",
+        "genesis_shapeshifter_animations": "Анимации Genesis ShapeShifter",
+        "website_launch": "Запуск сайта",
+        "alpha_testing": "Альфа-тестирование",
+        "nft_acquisition": "Первые продажи NFT",
+        "q2_2023": "Q2 2023",
+        "beta_launch": "Бета-запуск",
+        "genesis_shapeshifter_launch": "Запуск Genesis ShapeShifter",
+        "seed_round": "Раунд Сидов",
+        "shapeshifter_minting": "Монетизация ShapeShifter",
+        "q3_2023": "Q3 2023",
+        "increase_rental_selection": "Увеличение выбора аренды",
+        "zap_launch": "Запуск $ZAP",
+        "zap_staking": "$ZAP стейкинг",
+        "multi_chain": "Совместимость с несколькими блокчейнами",
+        "extension_release": "Релиз прокси-кошелька",
+        "referral_program": "Реферальная программа",
+        "gas_optimization": "Оптимизация газа",
+        "p2p_rentals": "Аренда P2P",
+        "tech_distribution": "Распространение технологии прокси",
+        "q4_2023": "Q4 2023"
+      },
+      "footer": {
+        "contact_us": "Свяжитесь с нами",
+        "learn_more": "Узнать больше",
+        "socials": "Социальные сети"
+      },
+      "email": {
+        "subscribe": "Подпишитесь на нашу рассылку!",
+        "enterEmail": "Введите свой адрес электронной почты",
+        "subscribeButton": "подписаться",
+        "zipzapLaunch": "Присоединяйтесь к нашей рассылке, чтобы первым узнать о запуске ZipZap!"
+      },
+      "guild": {
+        "title": "НЕ ГИЛЬДИЯ",
+        "tagline": "ZipZap - не гильдия, но наша платформа аренды заменяет ее.",
+        "benefit1": "<highlight>Лучшие игры веб3</highlight> у вас под рукой!",
+        "benefit2": "<highlight>Безопасный</highlight> опыт игры в P2E!",
+        "benefit3": "Получайте <highlight>прибыль</highlight> от аренды NFT!",
+        "join_now": "Присоединяйтесь Сейчас!",
+        "benefits": {
+          "benefits_list": {
+            "1": {
+              "title": "Аренда для Заработка",
+              "description": "ZipZap устанавливает цены на NFT P2E так, чтобы вы могли зарабатывать, арендуя их."
+            },
+            "2": {
+              "title": "На Ваших Условиях",
+              "description": "В отличие от гильдий, ZipZap не налагает квот на ваши часы, доходы или время, проведенное на практике."
+            },
+            "3": {
+              "title": "Открыто для Всех",
+              "description": "Всё, что вам нужно сделать, это зайти на наш веб-приложение для аренды, подключить ваш кошелек, и ваш аккаунт будет создан."
+            }
+          }
+        }
+      }
+    }
+  },
+  "ua": {
+    "translation": {
+      "hero": {
+        "joinAlpha": "вступати до альфа"
+      },
+      "sidebar": {
+        "home": "Головна",
+        "learn_more": "Вивчайте більше",
+        "rent": "Оренда",
+        "use_our_tech": "Використовуйте нашу технологію",
+        "guild": "Гільдія",
+        "partnership_inquiries": "Запити на партнерство"
+      },
+      "home": {
+        "title": "АРЕНДА NFT, КАК ЭТО ДОЛЖНО БЫТЬ"
+      },
+      "about": {
+        "zipzap": "Що таке ZipZap?",
+        "zipzap_description": "ZipZap - це інноваційний <highlight>сервіс оренди NFT.</highlight> Ми відрізняємось двома значущими способами:",
+        "collateral_free": "Без застави",
+        "collateral_free_description": "ZipZap - єдине <highlight>рішення для оренди NFT, повністю вільне від застави</highlight>. Наш \"проксі-гаманець\" забезпечує <highlight>безпечні оренди</highlight> без ушкодження для досвіду користувача.",
+        "unlimited_selection": "Необмежений вибір",
+        "unlimited_selection_description": "На відміну від конкурентів, ZipZap <highlight>сумісний з існуючими NFT</highlight> без необхідності зміни їх коду, що дозволяє нам надавати <highlight>необмежений вибір.</highlight>",
+        "earn_more": "Заробляй більше",
+        "earn_more_description": "Отримуй більше прибутку в P2E-іграх, ніж в гільдіях, утримуючи <highlight>більший відсоток</highlight> і використовуючи <highlight>кращі NFT.</highlight>",
+        "multi_chain": "Multi-Chain",
+        "multi_chain_description": "ZipZap буде надавати NFT проектів, створених на <highlight>Ethereum, Polygon, BSC, Solana,</highlight> та інших."
+      },
+      "rent_with_us": {
+        "title": "ОРЕНДУЙТЕ З ZIPZAP",
+        "description": "Кожен NFT в ZipZap матиме свої власні унікальні можливості. У кінці кінців, який сенс орендувати щось, якщо ви не можете використовувати його?",
+        "coming_soon": "Незабаром"
+      },
+      "nft_types": {
+        "title": "NFTs, ЯКІ МИ ПРОПОНУЄМО",
+        "description": "Ось що ви знайдете на ZipZap:",
+        "gaming_metaverse": "Ігри та метавсесвіти",
+        "gaming_metaverse_description": "Отримуйте NFT, щоб отримати доступ до <highlight>найкращих P2E та криптовалют</highlight> практично без  жодних зобов'язань та витрат.",
+        "online_services": "Онлайн-сервіси",
+        "online_services_description": "Від <highlight>більш доступних</highlight> послуг VPN до <highlight>знижок</highlight> в роздрібних магазинах, ZipZap пропонує NFT для широкого спектру онлайн-сервісів.",
+        "rewards_discounts": "Нагороди та знижки",
+        "rewards_discounts_description": "ZipZap спеціально встановлює ціну на NFT, щоб ви могли <highlight>отримати прибуток</highlight> від винагород, знижок та бонусних балів.",
+        "private_access": "Приватний доступ",
+        "private_access_description": "Отримайте доступ до <highlight>виключних спільнот</highlight> через NFT, не вкладаючи великих сум.",
+        "in_person_events": "Події в реальному житті",
+        "in_person_events_description": "Орендуйте NFT, що представляють квитки на <highlight>спортивні події, зустрічі, концерти,</highlight> та багато іншого.",
+        "join_now": "Приєднуйтеся зараз!",
+        "coming_soon": "Незабаром"
+      },
+      "shapeshifter": {
+        "title": "ShapeShifters NFTs",
+        "shapeshifters_description": "ShapeShifters - це для тих, хто вірить у майбутнє NFT і хоче одержувати пожиттєвий прибуток від їх використання.",
+        "lower_fees": "До 4,5 разів менші комісії",
+        "lower_fees_description": "Шейпшифтери можуть зробити ігри P2E ще більш прибутковими.",
+        "free_renting_credit": "Безкоштовний орендний кредит",
+        "free_renting_credit_description": "Кредит оренди в формі NFT буде періодично відправлятися власникам Шейпшифтера залежно від їх рівня \"щастя\".",
+        "airdrops_giveaways": "Airdrops і розіграші",
+        "airdrops_giveaways_description": "Час від часу власники Шейпшифтера отримують в подарунок NFT та криптовалюти від нашої платформи оренди або створені ZipZap.",
+        "boosted_xp_rate": "Підвищений рівень досвіду",
+        "boosted_xp_rate_description": "Володіння Шейпшифтером значно прискорює отримання досвіду, що дозволяє вашому обліковому запису ZipZap швидше підніматися в рангу."
+      },
+      "how_to_rent": {
+        "title": "Як орендувати",
+        "tutorial_video": "Відеоурок скоро буде доступний",
+        "step1": "Створіть свій обліковий запис ZipZap <highlight>та Proxy Wallet.</highlight>",
+        "step2": "Встановіть розширення браузера ZipZap <highlight>щоб використовувати орендовані NFT.</highlight>",
+        "step3": "За бажанням придбайте Шейпшифтера (скоро) для <highlight>отримання преміального досвіду.</highlight>",
+        "step4": "<highlight>Виберіть проект та NFT,</highlight> які ви хочете орендувати.",
+        "step5": "Підтвердіть <highlight>тривалість та вартість оренди.</highlight>",
+        "step6": "<highlight>Готово!</highlight> NFT миттєво відправляються в ваш Proxy Wallet після підтвердження транзакції."
+      },
+      "team": {
+        "title": "CORE TEAM",
+        "founder_ceo": "Founder & CEO",
+        "cofounder_cfo": "Co-founder & CFO",
+        "cofounder_cto": "Co-Founder & CTO",
+        "web3developer": "Web3 Developer",
+        "graphicdesigner": "Graphic Designer",
+        "frontenddeveloper": "Frontend Developer"
+      },
+      "timeline": {
+        "title": "Лінія часу",
+        "q4_2022": "Q4 2022",
+        "strategic_development": "Стратегічний розвиток",
+        "pre_seed_round": "Раунд Пресидії",
+        "technological_development": "Технологічний розвиток",
+        "q1_2023": "Q1 2023",
+        "proxy_technology_completion": "Завершення технології проксі",
+        "genesis_shapeshifter_animations": "Анімації Genesis ShapeShifter",
+        "website_launch": "Запуск сайту",
+        "alpha_testing": "Альфа-тестування",
+        "nft_acquisition": "Придбання NFT",
+        "q2_2023": "Q2 2023",
+        "beta_launch": "Бета-запуск",
+        "genesis_shapeshifter_launch": "Запуск Genesis ShapeShifter",
+        "seed_round": "Раунд Сідів",
+        "shapeshifter_minting": "Монетизація ShapeShifter",
+        "q3_2023": "Q3 2023",
+        "increase_rental_selection": "Збільшення вибору оренди",
+        "zap_launch": "Запуск $ZAP",
+        "zap_staking": "$ZAP стейкінг",
+        "multi_chain": "Сумісність з декількома ланцюжками",
+        "extension_release": "Випуск розширення проксі-гаманця",
+        "referral_program": "Реферальна програма",
+        "gas_optimization": "Оптимізація газу",
+        "p2p_rentals": "Оренда від особи до особи (P2P)",
+        "tech_distribution": "Розподіл технології проксі",
+        "q4_2023": "Q4 2023"
+      },
+      "footer": {
+        "contact_us": "Зв'язатися з нами",
+        "learn_more": "Дізнатися більше",
+        "socials": "Соціальні мережі"
+      },
+      "email": {
+        "subscribe": "Підпишіться на нашу розсилку!",
+        "enterEmail": "Введіть свою адресу електронної пошти",
+        "subscribeButton": "підписатися",
+        "zipzapLaunch": "Приєднуйтесь до нашої розсилки, щоб бути першим, хто дізнається про запуск ZipZap!"
+      },
+      "guild": {
+        "title": "NOT A GUILD",
+        "tagline": "ZipZap is not a guild, but our rental platform substitutes as one.",
+        "benefit1": "The best web3 games at your fingertips?",
+        "benefit2": "A de-risked P2E experience?",
+        "benefit3": "Profit from renting NFTs?",
+        "join_now": "Join Now!",
+        "benefits": {
+          "benefits_list": {
+            "1": {
+              "title": "Rent to Earn",
+              "description": "ZipZap prices P2E NFTs so that you can make a profit while renting them."
+            },
+            "2": {
+              "title": "On Your Terms",
+              "description": "Unlike Guilds, ZipZap does not enforce quotas on your hours, earnings, or time spent practicing."
+            },
+            "3": {
+              "title": "Open to All",
+              "description": "All you need to do is go to our rental webapp, connect your wallet, and your account will be created."
+            }
+          }
+        }
+      }
+    }
+  },
+  "zh": {
+    "translation": {
+      "hero": {
+        "joinAlpha": "加入Alpha"
+      },
+      "features": {
+        "title1": "了解您的<highlight>代理钱包</highlight>",
+        "description1": "您的代理钱包就像任何其他钱包一样工作。创建您的代理钱包，下载扩展程序，今天就<highlight>开始使用吧</highlight>！",
+        "title2": "告别抵押",
+        "description2": "将<highlight>任何精选NFT</highlight>租借到您的代理钱包，<highlight>无需抵押</highlight>。以低于价格的0.3%获取NFT！",
+        "title3": "拥抱无限潜力",
+        "description3": "<highlight>其他</highlight>无抵押租赁协议<highlight>要求</highlight>NFT<highlight>符合其标准</highlight>。您的代理钱包能够保护任何已<highlight>租用</highlight>的NFT。",
+        "title4": "邀请您的朋友一起来",
+        "description4": "邀请您的朋友创建代理钱包。当他们租借时，<highlight>您可以获得</highlight>25%，而<highlight>他们可以获得</highlight>50%的收益！"
+      },
+      "sidebar": {
+        "home": "首页",
+        "learn_more": "了解更多",
+        "rent": "出租",
+        "use_our_tech": "使用我们的技术",
+        "guild": "公会",
+        "partnership_inquiries": "合作咨询"
+      },
+      "home": {
+        "title": "NFT出租，本应如此"
+      },
+      "about": {
+        "zipzap": "ZipZap是什么？",
+        "zipzap_description": "ZipZap是一个全新的<highlight>NFT租赁平台。</highlight>我们有几点与众不同：",
+        "collateral_free": "无需抵押",
+        "collateral_free_description": "ZipZap是唯一完全<highlight>免除担保的</highlight>NFT租赁解决方案。我们的“Proxy Wallet”可确保<highlight>安全的租赁</highlight>并且不会影响用户体验。",
+        "unlimited_selection": "无限选择",
+        "unlimited_selection_description": "与竞争对手不同，ZipZap<highlight>兼容现有的NFT</highlight>，无需更改其代码，使我们能够提供<highlight>无限选择</highlight>。",
+        "earn_more": "赚的更多",
+        "earn_more_description": "在P2E游戏中，玩家可以通過<highlight>更高的分红并使用更好的NFT</highlight>来賺取比在公會中多的利润。",
+        "multi_chain": "多链支持",
+        "multi_chain_description": "ZipZap将提供<highlight>Ethereum、Polygon、BSC、Solana</highlight>和更多等项目的NFT。"
+      },
+      "rent_with_us": {
+        "title": "租赁NFT",
+        "description": "ZipZap提供的每个NFT都具有其独特的功能。我们拒绝提供没有使用功能的NFT。",
+        "coming_soon": "即将推出"
+      },
+      "nft_types": {
+        "title": "我们提供的NFT",
+        "description": "你可以在ZipZap找到的NFT包含：",
+        "gaming_metaverse": "游戏与元宇宙",
+        "gaming_metaverse_description": "在低成本，无风险的环境下租借<highlight>NFT玩最好的区块链游戏</highlight>。",
+        "online_services": "在线服务",
+        "online_services_description": "从<highlight>更便宜的VPN服务到</highlight>零售店折扣，ZipZap会提供各种在线服务的NFT。",
+        "rewards_discounts": "奖励和折扣",
+        "rewards_discounts_description": "ZipZap以最低的价格定价NFT，以便您可以通过<highlight>奖励、折扣和积分</highlight>获得收益。",
+        "private_access": "独家活动",
+        "private_access_description": "无需大额投资也可以进入<highlight>私域社群</highlight>。",
+        "in_person_events": "现场活动",
+        "in_person_events_description": "租用代表<highlight>体育赛事、会议、音乐会等的入场</highlight>NFT。",
+        "join_now": "现在加入",
+        "coming_soon": "即将推出",
+        "more_to_come": "敬请期待更多",
+        "more_to_come_description": "ZipZap将扩展包括诸如<highlight>活动门票</highlight>、独家<highlight>社区访问等</highlight>NFT。"
+      },
+      "shapeshifter": {
+        "title": "ShapeShifters NFT",
+        "shapeshifters_description": "ShapeShifter是专为希望未来能使用NFT获得长期收益的人士而打造的。",
+        "lower_fees": "最高可减少4.5倍费用",
+        "lower_fees_description": "ShapeShifter可以使玩P2E游戏的收益更高。",
+        "free_renting_credit": "免费租赁信用",
+        "free_renting_credit_description": "ShapeShifter持有人会按ShapeShifter的运气指数随机收到优惠卷NFT。",
+        "airdrops_giveaways": "空投和赠品",
+        "airdrops_giveaways_description": "ShapeShifter持有人将不定期收到各种Zipzap制造的NFT于加密货币作为礼物。",
+        "boosted_xp_rate": "提高XP升级速度",
+        "boosted_xp_rate_description": "拥有ShapeShifter会显著提高获得XP的速度，从而使您的ZipZap账户更快地升级。"
+      },
+      "how_to_rent": {
+        "title": "租借教程",
+        "tutorial_video": "即将推出教程视频",
+        "step1": "创建你的ZipZap<highlight>账户和Proxy Wallet。</highlight>",
+        "step2": "安装ZipZap<highlight>浏览器扩展程序</highlight>以便使用你租赁的NFT。",
+        "step3": "可选择购买ShapeShifter（即将推出），享受<highlight>高端体验。</highlight>",
+        "step4": "<highlight>选择你想要的</highlight>项目的NFT。",
+        "step5": "确认租赁<highlight>时间和价格。</highlight>",
+        "step6": "<highlight>确认交易后，</highlight>NFT将立即发送到你的Proxy Wallet。"
+      },
+      "team": {
+        "title": "核心团队",
+        "founder_ceo": "Founder & CEO",
+        "cofounder_cfo": "Co-founder & CFO",
+        "cofounder_cto": "Co-Founder & CTO",
+        "web3developer": "Web3 Developer",
+        "graphicdesigner": "Graphic Designer",
+        "frontenddeveloper": "Frontend Developer"
+      },
+      "timeline": {
+        "title": "发布时间轴",
+        "q4_2022": "2022年第四季度",
+        "strategic_development": "战略开发",
+        "pre_seed_round": "pre-seed轮融资",
+        "technological_development": "技术开发",
+        "q1_2023": "2023年第一季度",
+        "proxy_technology_completion": "代理技术完成",
+        "genesis_shapeshifter_animations": "开端ShapeShifter动画",
+        "website_launch": "发布网站",
+        "alpha_testing": "Alpha测试",
+        "nft_acquisition": "收购NFT",
+        "q2_2023": "2023年第二季度",
+        "beta_launch": "开放Beta",
+        "genesis_shapeshifter_launch": "开端ShapeShifter发布",
+        "seed_round": "种子轮融资",
+        "shapeshifter_minting": "铸造ShapeShifter",
+        "q3_2023": "2023年第三季度",
+        "increase_rental_selection": "增加租赁NFT种类",
+        "zap_launch": "发布$ZAP",
+        "zap_staking": "质押$ZAP",
+        "multi_chain": "支持多链",
+        "extension_release": "Proxy Wallet插件发布",
+        "referral_program": "转介计划",
+        "gas_optimization": "Gas费用优化",
+        "p2p_rentals": "P2P租借",
+        "tech_distribution": "Proxy科技分发",
+        "q4_2023": "Q4 2023"
+      },
+      "footer": {
+        "contact_us": "联系我们",
+        "learn_more": "了解更多",
+        "socials": "社交平台"
+      },
+      "email": {
+        "subscribe": "订阅我们的邮件列表！",
+        "enterEmail": "输入您的电子邮件地址",
+        "subscribeButton": "订阅",
+        "zipzapLaunch": "加入我们的邮件列表，第一时间获取 ZipZap 上线的消息！"
+      },
+      "guild": {
+        "title": "非公会",
+        "tagline": "ZipZap不是公会，但我们的租赁平台可以替代。",
+        "benefit1": "<highlight>最好的web3游戏</highlight>尽在您的指尖！",
+        "benefit2": "<highlight>降低风险</highlight>的P2E体验！",
+        "benefit3": "通过租赁NFT<highlight>获利</highlight>！",
+        "join_now": "立即加入！",
+        "benefits": {
+          "benefits_list": {
+            "1": {
+              "title": "租赁以赚取",
+              "description": "ZipZap的P2E NFT定价使您能够在租赁时获得利润。"
+            },
+            "2": {
+              "title": "按您的条件",
+              "description": "与公会不同，ZipZap不会对您的工作时间、收入或练习时间施加限额。"
+            },
+            "3": {
+              "title": "向所有人开放",
+              "description": "您所需要做的就是访问我们的租赁网络应用程序，连接您的钱包，您的账户将被创建。"
+            }
+          }
+        }
+      }
+    }
+  }
+}
