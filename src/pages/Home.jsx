@@ -2,14 +2,13 @@ import { useRef, useEffect, useState } from "react";
 import { Box } from "@chakra-ui/react";
 import { lazy, Suspense } from "react";
 import Hero from "./Hero";
-import Tutorial from "./Tutorial"
 const NftTypes = lazy(() => import("./NftTypes"));
 const Partners = lazy(() => import("./Partners"));
 const Features = lazy(() => import("./Features"));
 const Timeline = lazy(() => import("./Timeline"));
 const Footer = lazy(() => import("../components/Footer"));
 const About = lazy(() => import("./About"));
-// const Tutorial = lazy(() => import("./Tutorial"));
+const Tutorial = lazy(() => import("./Tutorial"));
 const Guild = lazy(() => import("./Guild"));
 
 import SectionLoading from "../components/SectionLoading";
